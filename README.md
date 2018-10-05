@@ -22,4 +22,4 @@
 - 신유은
 
 ## 토큰 이코노미
-https://user-images.githubusercontent.com/18029426/46522110-d2bfeb80-c8bc-11e8-895d-1e26b140f896.jpeg
+![kakaotalk_photo_2018-10-05-16-28-13](https://user-images.githubusercontent.com/18029426/46522184-0ef34c00-c8bd-11e8-9665-426bd3e3f23c.jpeg)
