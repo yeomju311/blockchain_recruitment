@@ -16,10 +16,10 @@
   - 합/불 정확한 이유를 알 수 있음
 
 ## member
-- 최윤주
-- 김수지
-- 윤재희
-- 신유은
+- 최윤주 @yeomju311
+- 김수지 @suji0105
+- 윤재희 @hijerry17
+- 신유은 @syouyee
 
 ## 토큰 이코노미
 ![kakaotalk_photo_2018-10-05-16-28-13](https://user-images.githubusercontent.com/18029426/46522184-0ef34c00-c8bd-11e8-9665-426bd3e3f23c.jpeg)
